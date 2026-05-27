@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "FMNN"
+message: "Code and details will be released upon paper acceptance."
+type: software
+authors:
+  - given-names: Yang
+    family-names: Xu
+    email: youngxu0518@163.com
+  - given-names: Zihao
+    family-names: Li
+    email: zihaol21210@gmail.com
+  - given-names: Wenbo
+    family-names: Shen
+    email: yolochudong@gmail.com
+repository-code: "https://github.com/XY3255095840/FMNN"
+license: MIT
