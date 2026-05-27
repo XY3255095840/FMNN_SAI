@@ -12,5 +12,8 @@ authors:
   - given-names: Wenbo
     family-names: Shen
     email: yolochudong@gmail.com
+  - given-names: Taishan
+    family-names: Zheng
+    email: zengtsh@m.scnu.edu.cn
 repository-code: "https://github.com/XY3255095840/FMNN_SAI"
 license: MIT

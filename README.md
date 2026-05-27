@@ -6,7 +6,7 @@
 
 ## Authors
 
-Yang Xu\*, Zihao Li\*, Wenbo Shen — *School of Mathematical Sciences, South China Normal University* (\* Equal contribution)
+Yang Xu\*, Zihao Li\*, Wenbo Shen, Taishan Zheng — *School of Mathematical Sciences, South China Normal University* (\* Equal contribution)
 
 ## Repository Structure
 
@@ -34,3 +34,4 @@ MIT License.
 - Yang Xu: youngxu0518@163.com
 - Zihao Li: zihaol21210@gmail.com
 - Wenbo Shen: yolochudong@gmail.com
+- Taishan Zheng (Corresponding Author): zengtsh@m.scnu.edu.cn
